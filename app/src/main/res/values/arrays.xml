@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="themecolor">
+        <item>@color/theme1</item>
+        <item>@color/theme2</item>
+        <item>@color/theme3</item>
+        <item>@color/theme4</item>
+        <item>@color/theme5</item>
+        <item>@color/theme6</item>
+    </array>
+
+    <array name="alphathemecolor">
+        <item>@color/alphatheme1</item>
+        <item>@color/alphatheme2</item>
+        <item>@color/alphatheme3</item>
+        <item>@color/alphatheme4</item>
+        <item>@color/alphatheme5</item>
+        <item>@color/alphatheme6</item>
+    </array>
+
+    <array name="recordiconbg">
+        <item>@color/bgrecordicontheme1</item>
+        <item>@color/bgrecordicontheme2</item>
+        <item>@color/bgrecordicontheme3</item>
+        <item>@color/bgrecordicontheme4</item>
+        <item>@color/bgrecordicontheme5</item>
+        <item>@color/bgrecordicontheme6</item>
+    </array>
+
+    <array name="userblankavatar">
+        <item>@color/useravatar_a</item>
+        <item>@color/useravatar_b</item>
+        <item>@color/useravatar_c</item>
+        <item>@color/useravatar_d</item>
+        <item>@color/useravatar_e</item>
+        <item>@color/useravatar_f</item>
+        <item>@color/useravatar_g</item>
+        <item>@color/useravatar_h</item>
+        <item>@color/useravatar_i</item>
+        <item>@color/useravatar_j</item>
+        <item>@color/useravatar_k</item>
+        <item>@color/useravatar_l</item>
+        <item>@color/useravatar_m</item>
+        <item>@color/useravatar_n</item>
+        <item>@color/useravatar_o</item>
+        <item>@color/useravatar_p</item>
+        <item>@color/useravatar_q</item>
+        <item>@color/useravatar_r</item>
+        <item>@color/useravatar_s</item>
+        <item>@color/useravatar_t</item>
+        <item>@color/useravatar_u</item>
+        <item>@color/useravatar_v</item>
+        <item>@color/useravatar_w</item>
+        <item>@color/useravatar_x</item>
+        <item>@color/useravatar_y</item>
+        <item>@color/useravatar_z</item>
+        <item>@color/useravatar_0</item>
+    </array>
+
+</resources>

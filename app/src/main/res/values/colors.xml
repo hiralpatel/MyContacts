@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#750cc6</color>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#35eb94</color>
+
+    <color name="progressDefaultForGray">#B2B2B2</color>
+    <color name="progressDefaultForGreen">#BBEBD4</color>
+    <!--old B2B2B2-->
+
+    <color name="textColor">#8A8A8A</color>
+    <color name="playColor">#2BD47E</color>
+    <color name="playBackBG">#EDEDED</color>
+
+    <color name="loginBtnColorSel">#FFFFFF</color>
+    <color name="loginBtnColorS">#000000</color>
+    <color name="loginWithNum">#ffffff</color>
+    <color name="loginWithNumSel">#eeeeee</color>
+    <color name="loginWithFBTxt">#e42074</color>
+    <color name="loginWithFBTxtSel">#98164d</color>
+    <color name="addfriendsbutton">#a96ca8</color>
+    <color name="transparent">#00000000</color>
+    <color name="statusbar">#750cc6</color>
+    <color name="darkPurple">#470777</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="rec_circle_color">#e22174</color>
+
+    <color name="req_color">#2662d0</color>
+    <color name="req_counter_bg_color">#16D5DF</color>
+    <color name="req_bg_color_new">#17D5E3</color>
+
+    //
+    <color name="rec_back_color">#372942</color>
+    <color name="rec_play_stroke">#35EB93</color>
+    <!--<color name="rec_play_stroke">#32E087</color>-->
+    <!--<color name="rec_play_stroke">#00FF00</color>-->
+    //
+    <color name="friend_rec_play_stroke">#33e088</color>
+    <color name="message_playing_back">#69ab00</color>
+    //
+    <color name="friend_message_playing_back">#2ac57d</color>
+    <color name="background_color">#3a2743</color>
+    <color name="psts_background_tab_pressed">#1AFFFFFF</color>
+    <color name="psts_background_tab_pressed_ripple">#AAFFFFFF</color>
+
+    <color name="select_colorpicker">#ccc9c9</color>
+
+    <!--theme color-->
+    <color name="theme1">#750cc6</color>
+    //6c0cc6
+    <color name="theme2">#8dc70c</color>
+    <color name="theme3">#00d3bd</color>
+    <color name="theme4">#0c74c7</color>
+    <color name="theme5">#e48c11</color>
+    <color name="theme6">#e4c611</color>
+
+    <!--theme alpha color-->
+    <color name="alphatheme1">#80750cc6</color>
+    <color name="alphatheme2">#808dc70c</color>
+    <color name="alphatheme3">#8000d3bd</color>
+    <color name="alphatheme4">#800c74c7</color>
+    <color name="alphatheme5">#80e48c11</color>
+    <color name="alphatheme6">#80e4c611</color>
+
+    <!--theme record button background color-->
+    <color name="bgrecordicontheme1">#5c079e</color>
+    <color name="bgrecordicontheme2">#5e9f01</color>
+    <color name="bgrecordicontheme3">#00afa1</color>
+    <color name="bgrecordicontheme4">#015394</color>
+    <color name="bgrecordicontheme5">#ce6b02</color>
+    <color name="bgrecordicontheme6">#c8ac00</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <!--messageview colors-->
+    <color name="progress">#A8A8A8</color>
+    <color name="username">#3b3b3b</color>
+    <color name="localtime">#cbcbcb</color>
+
+    <color name="friendmessageplaybg">#ededed</color>
+    <color name="friendplayprogress_bg">#cdcdcd</color>
+    <color name="friendmessagetotaltime">#838383</color>
+
+    <color name="usermessageplaybg">#2bd57d</color>
+    <color name="userplayprogress_bg">#bbebd4</color>
+    <color name="usermessagetotltime">#bbebd4</color>
+
+    <!--user blank avatar-->
+    <color name="useravatar_a">#512da7</color>
+    <color name="useravatar_b">#f1bc1b</color>
+    <color name="useravatar_c">#e62295</color>
+    <color name="useravatar_d">#a0ce23</color>
+    <color name="useravatar_e">#ff7800</color>
+    <color name="useravatar_f">#0a6afa</color>
+    <color name="useravatar_g">#a6ac66</color>
+    <color name="useravatar_h">#f84444</color>
+    <color name="useravatar_i">#22dae6</color>
+    <color name="useravatar_j">#9a4f96</color>
+    <color name="useravatar_k">#45b245</color>
+    <color name="useravatar_l">#905c4a</color>
+    <color name="useravatar_m">#09a1f0</color>
+    <color name="useravatar_n">#0fda65</color>
+    <color name="useravatar_o">#4f4a5c</color>
+    <color name="useravatar_p">#eedc15</color>
+    <color name="useravatar_q">#d72c70</color>
+    <color name="useravatar_r">#709003</color>
+    <color name="useravatar_s">#e0510b</color>
+    <color name="useravatar_t">#314fbc</color>
+    <color name="useravatar_u">#b122e6</color>
+    <color name="useravatar_v">#00b797</color>
+    <color name="useravatar_w">#c0801c</color>
+    <color name="useravatar_x">#492be1</color>
+    <color name="useravatar_y">#f4f107</color>
+    <color name="useravatar_z">#bae704</color>
+    <color name="useravatar_0">#000000</color>
+</resources>
